@@ -1,4 +1,4 @@
-# tarea-6
+# Componente vue cdn a vue cli Rodriguez
 
 ## Project setup
 ```
